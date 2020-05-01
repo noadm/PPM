@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Labelling Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Button</string>
+    <string name="login">Login</string>
+    <string name="numb_of_attempts">Numb of attempts</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="useremail">userEmail</string>
+</resources>
